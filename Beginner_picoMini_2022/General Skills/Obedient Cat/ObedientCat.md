@@ -1,4 +1,4 @@
-# PicoCTF 2021 
+# PicoCTF 2022 - Beginner picoMini 2022
 # Obedient Cat
 ### Description
     This has a flas in plain sight (aka "in-the-clear")
