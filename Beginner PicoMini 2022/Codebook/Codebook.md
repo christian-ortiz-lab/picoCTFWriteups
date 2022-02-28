@@ -18,6 +18,7 @@
     ```$ wget https://artifacts.picoctf.net/c/105/code.py ```
 
 2. Download the .txt file in the same directory as the python source code. Using the bash command below.
+   
     ```$ wget https://artifacts.picoctf.net/c/105/codebook.txt ```
 
 3. Run the python source code using the command
