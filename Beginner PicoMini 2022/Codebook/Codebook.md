@@ -25,4 +25,4 @@
 4. Copy and paste the output into the picoCTF
 
 ### Flag
-   picoCTF{c0d3b00k_455157_687087ee}
+    picoCTF{c0d3b00k_455157_687087ee}
